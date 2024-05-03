@@ -1,4 +1,4 @@
-![snake gif](https://github.com/zuleyha04/zuleyha04/blob/output/github-contribution-grid-snake.gif)
+
 <h1 align="center">Hi 👋, I'm Züleyha Akbaş</h1>
 <h3 align="center">A passionate Computer Engineering Student in Türkiye</h3>
 
@@ -9,6 +9,10 @@
 - 👨‍💻 All of my projects are available at [https://github.com/zuleyha04](https://github.com/zuleyha04)
 
 - 📫 How to reach me **zuleyhakbas04@gmail.com**
+
+
+![snake gif](https://github.com/zuleyha04/zuleyha04/blob/output/github-contribution-grid-snake.gif)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
