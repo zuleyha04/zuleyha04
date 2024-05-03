@@ -1,3 +1,4 @@
+![snake gif](https://github.com/zuleyha04/zuleyha04/blob/output/github-contribution-grid-snake.gif)
 <h1 align="center">Hi 👋, I'm Züleyha Akbaş</h1>
 <h3 align="center">A passionate Computer Engineering Student in Türkiye</h3>
 
