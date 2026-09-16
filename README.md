@@ -15,7 +15,6 @@
 - 💻 Interested in **Mobile Development, Software Engineering & Computer Vision**
 - 🎓 Computer Engineering Graduate — **Department Valedictorian**
 - 📚 Currently pursuing an **M.Sc. in Computer Engineering**
-- 🏆 **Hackathon 4th Place & Jury Special Award**
 - 📫 **zuleyhakbas04@gmail.com**
 
 <br>
